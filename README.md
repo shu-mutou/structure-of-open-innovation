@@ -3,6 +3,8 @@
 
 **The Structure of Open Innovation: Structural Transformation and Sustainable Development through Open Source**
 
+Please refer [zenodo](https://zenodo.org/records/21371245) (DOI: [10.5281/zenodo.21371245](https://doi.org/10.5281/zenodo.21371245))
+
 ---
 
 **著者 / Author:** 武藤 周 (Shu Muto)  
