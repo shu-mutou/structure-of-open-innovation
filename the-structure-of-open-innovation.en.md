@@ -1735,8 +1735,6 @@ Particularly important is that recent discussions are moving toward:
 
 This overlaps with the "sustainability" described in this book.
 
----
-
 Sustainability is not merely continuity.
 
 > **It is structure functioning through time.**
