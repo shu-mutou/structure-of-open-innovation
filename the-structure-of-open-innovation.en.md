@@ -17,7 +17,7 @@ Licensed under the Creative Commons Attribution 4.0 International License (CC BY
 **Note:** This English edition was translated by a generative AI (Claude Sonnet 4.6 / Anthropic). The original Japanese text is the authoritative version.
 
 GitHub: https://github.com/shu-mutou/structure-of-open-innovation  
-DOI: https://doi.org/10.5281/zenodo.21371467
+DOI: https://doi.org/10.5281/zenodo.21371244
 
 ---
 
