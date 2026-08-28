@@ -1,5 +1,8 @@
-# The Structure of Open Innovation
-## — Structural Transformation and Sustainable Development through Open Source —
+The Structure of Open Innovation
+================================
+
+— Structural Transformation and Sustainable Development through Open Source —
+-----------------------------------------------------------------------------
 
 2026-07-15
 NEC Solution Innovators, Ltd.
