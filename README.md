@@ -26,6 +26,8 @@ OSSの利用やリスク管理は、すでに多くの組織が取り組んで�
 > オープンソースの真価は、技術ではない。活動でもない。文化でもない。
 > それは、外部と接続し、その接続を価値に変換し、エコシステムとともに持続的に発展する"構造"である。
 
+本書は二部作の第一部にあたる。第二部『成長と成熟の構造』( https://doi.org/10.5281/zenodo.22138836 )では、本書で論じた組織を持続的に発展させるための構造がなぜ必要なのかに言及する。その問いを生命の理にまで遡り、人間の成長と成熟、組織、文化、そして未来へと紐解いていく。
+
 ---
 
 ## Abstract (English)
@@ -35,6 +37,8 @@ Many organizations manage OSS use and risk, yet few advance beyond compliance to
 This book attempts to articulate and formalize that structure: the **conversion circuit** that transforms external connections into business value; the **chasm and critical mass** that determine whether open source contribution takes root in an organization; and the concept of **autonomous sustainability** — a structure that continues to function regardless of individual personnel changes.
 
 The central argument: open source contribution at scale is not a product of heroic individuals, but of organizations designed to continuously produce and sustain such contribution.
+
+This book is the first part of a two-part work. The second part, The Structure of Growth and Maturity (https://doi.org/10.5281/zenodo.22138836), explores why the structures discussed in this book are necessary for the sustainable development of organizations. It traces that question back to the principles of life itself, exploring it through human growth and maturity, organizations, culture, and ultimately, the future.
 
 ---
 
