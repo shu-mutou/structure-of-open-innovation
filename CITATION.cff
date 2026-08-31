@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+
+title: "The Structure of Open Innovation: Structural Transformation and Sustainable Development through Open Source"
+
+authors:
+  - family-names: "Muto"
+    given-names: "Shu"
+    affiliation: "NEC Solution Innovators, Ltd."
+
+type: report
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.21371244"
+repository-code: "https://github.com/shu-mutou/structure-of-open-innovation"
+url: "https://doi.org/10.5281/zenodo.21371244"
