@@ -3,7 +3,7 @@
 
 **The Structure of Open Innovation: Structural Transformation and Sustainable Development through Open Source**
 
-Please refer [zenodo](https://zenodo.org/records/21371244) (DOI: [10.5281/zenodo.21371244](https://doi.org/10.5281/zenodo.21371244))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21371244.svg)](https://doi.org/10.5281/zenodo.21371244)
 
 ---
 
